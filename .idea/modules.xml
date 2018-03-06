@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jhipster.iml" filepath="$PROJECT_DIR$/jhipster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jhipster_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jhipster_main.iml" group="jhipster" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jhipster_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jhipster_test.iml" group="jhipster" />
+    </modules>
+  </component>
+</project>
